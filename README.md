@@ -3,7 +3,13 @@
     It uses machine learning program that asks the student questions, and recommends the better stream based on the skills and academic performance provided.
     The program also serves as a data collection platform to support the drive for more data on course recommendation.
 
-# Steps for Recommending
+# Steps to run the project
+    Run the education.py file in the Anaconda prompt.
+    Copy-paste the url generated from the Anaconda prompt in the browser.
+    Fill the details in the form that will be displayed and submit.
+    Results will be displayed in tabular form and in pie chart.
+
+# Steps in Recommending Courses
     Step 1: Read input through GUI
     Step 2: Read course data file
     Step 3: Data filtration
@@ -15,9 +21,3 @@
       • Take common attributes from data frame
     Step 7: Convert result array to data frame
     Step 8: Pass the output to next web page
-
-# Steps to run the project
-    Run the education.py file in the Anaconda prompt.
-    Copy-paste the url generated from the Anaconda prompt in the browser.
-    Fill the details in the form that will be displayed and submit.
-    Results will be displayed in tabular form and in pie chart.
