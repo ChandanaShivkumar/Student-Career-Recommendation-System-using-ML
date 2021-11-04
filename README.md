@@ -1,7 +1,7 @@
 # Student-Career-Recommendation-System-using-ML
-# This project is meant to be a part of the progress of Education towards better course recommendation.
-# It uses machine learning program that asks the student questions, and recommends the better stream based on the skills and academic performance provided.
-# The program also serves as a data collection platform to support the drive for more data on course recommendation.
+    This project is meant to be a part of the progress of Education towards better course recommendation.
+    It uses machine learning program that asks the student questions, and recommends the better stream based on the skills and academic performance provided.
+    The program also serves as a data collection platform to support the drive for more data on course recommendation.
 
 # Steps for Recommending
     Step 1: Read input through GUI
@@ -16,7 +16,8 @@
     Step 7: Convert result array to data frame
     Step 8: Pass the output to next web page
 
-# Run the education.py file in the Anaconda prompt.
-# Copy-paste the url generated from the Anaconda prompt in the browser.
-# Fill the details in the form that will be displayed and submit.
-# Results will be displayed in tabular form and in pie chart.
+# Steps to run the project
+    Run the education.py file in the Anaconda prompt.
+    Copy-paste the url generated from the Anaconda prompt in the browser.
+    Fill the details in the form that will be displayed and submit.
+    Results will be displayed in tabular form and in pie chart.
